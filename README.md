@@ -5,6 +5,6 @@ simple spin the wheel gui
 - Raylib
 - Computer
 ## How to use
-'''
+```
 ./programme -[item1,item2,item3,...,itemn]
-'''
+```
